@@ -1,0 +1,32 @@
+keyword = germany
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1iRYr0
+wdVMs1t9nljWtc964-ekhjVUwlmjknBIaEi
+name = 98__German nobility - Wikipedia, the free encyclopedia
+| downloading : 98__German nobility - Wikipedia, the free encyclopedia.csv
+> download file: 98__German nobility - Wikipedia, the free encyclopedia.csv : OK
+
+keyword = japan
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+12LJ0q
+sElUq5AF8BbUtDeBvgWv2H-mYJZZlFnOsEL
+name = 0__Germany - Wikipedia, the free encyclopedia
+| downloading : 0__Germany - Wikipedia, the free encyclopedia.csv
+> download file: 0__Germany - Wikipedia, the free encyclopedia.csv : OK
+keyword = japan
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1gZQCA
+P6OFNO2a2p6q-Mxil3cSOs4BLDKWaaQP8Er
+name = 1__Germany - Wikipedia, the free encyclopedia
+| downloading : 1__Germany - Wikipedia, the free encyclopedia.csv
+> download file: 1__Germany - Wikipedia, the free encyclopedia.csv : OK
+keyword = japan
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1ufXJ9
+nkUxIQDuohSvr-neYqWpbqGUhLsz8X_wJwi
+name = 2__Germans - Wikipedia, the free encyclopedia
+| downloading : 2__Germans - Wikipedia, the free encyclopedia.csv
+> download file: 2__Germans - Wikipedia, the free encyclopedia.csv : OK
+keyword = japan
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+164L5L
+at_9MdvlVZaVK2G6dt-LDYIvhLZKCDTbAm4
+name = 3__States of Germany - Wikipedia, the free encyclopedia
+| downloading : 3__States of Germany - Wikipedia, the free encyclopedia.csv
+> download file: 3__States of Germany - Wikipedia, the free encyclopedia.csv : O
+K

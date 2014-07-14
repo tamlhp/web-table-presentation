@@ -1,0 +1,23 @@
+{
+	"name":"Crawl WebTable data",
+    "description": "Require run server.js first",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts":[
+    	{
+    		"matches":[
+    			"http://research.google.com/tables*"
+    		],
+    		"css":["style.css"],
+    		"js":[
+    			"jquery-2.1.0.min.js",
+    			"jquery.cookie.js",
+    			"cookie.js",
+    			"content.js"
+    		]
+    	}
+    ],
+    "permissions":[
+    	"http://localhost:3000/*"
+    ]
+}

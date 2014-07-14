@@ -1,0 +1,67 @@
+D:\workspace\assemblagit\mappingvisualization\CrawlGoogleWebTableInJS>node serve
+r.js keywords.txt 100
+readfile : TEXT  :  keywords.txt
+[ 'social network', 'visualization' ]
+read parameters : OK
+init environment : OK
+data will be saved in : download/
+server is running at port: 3000
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+13eQk4
+z7R6FlhyIf3sxwaqneLJB_xcre3E_hZLtiM
+name = 0__List of social networking websites - Wikipedia, the free ...
+| downloading : 0__List of social networking websites - Wikipedia, the free ....
+csv
+> download file: 0__List of social networking websites - Wikipedia, the free ...
+.csv : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1FE5zs
+7Sa4hqz23-h04Zo-EUoeMDtfH0HxUYRTov0
+name = 1__Social networking service - Wikipedia, the free encyclopedia
+| downloading : 1__Social networking service - Wikipedia, the free encyclopedia.
+csv
+> download file: 1__Social networking service - Wikipedia, the free encyclopedia
+.csv : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+13zt6x
+ybXCcPH7E4ozaEyK7F_RdjHTaBgOK0yNTNM
+name = 2__Social network aggregation - Wikipedia, the free encyclopedia
+| downloading : 2__Social network aggregation - Wikipedia, the free encyclopedia
+.csv
+> download file: 2__Social network aggregation - Wikipedia, the free encyclopedi
+a.csv : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1gFbSP
+7O7k1Pu5cH3LlN16GA1r-tCO20vww4c-nGW
+name = 3__List of social networking websites - Simple English Wikipedia, ...
+| downloading : 3__List of social networking websites - Simple English Wikipedia
+, ....csv
+> download file: 3__List of social networking websites - Simple English Wikipedi
+a, ....csv : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1vVzQp
+nJjQlva-CzzpCLwt7nFlSuaGT_DXgskjNwg
+name = 4__The Social Network (soundtrack) - Wikipedia, the free ...
+| downloading : 4__The Social Network (soundtrack) - Wikipedia, the free ....csv
+
+> download file: 4__The Social Network (soundtrack) - Wikipedia, the free ....cs
+v : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1OfB6N
+smrRs7n3JuDVGm8RVSN7pjZmBA-VM6PTi0W
+name = 5__The Social Network (soundtrack) - Wikipedia, the free ...
+| downloading : 5__The Social Network (soundtrack) - Wikipedia, the free ....csv
+
+> download file: 5__The Social Network (soundtrack) - Wikipedia, the free ....cs
+v : OK
+keyword = social network
+url = https://www.google.com/fusiontables/exporttable?query=select+*+from+1OMo3O
+nzEyS6JocqOBCzBujgC3PDt6ntVH7WRrtFC
+name = 6__| BioWare Social Network
+| downloading : 6__| BioWare Social Network.csv
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: ENOENT, open 'D:\workspace\assemblagit\mappingvisualization\CrawlGoogleWe
+bTableInJS\download\social network\6__| BioWare Social Network.csv'
